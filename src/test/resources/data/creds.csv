@@ -1,0 +1,2 @@
+p_username,p_password,p_cardType,p_creditCard,p_expiryDate,p_billToFirstName,p_billToLastName,p_billAddress1,p_billAddress2,p_billCity,p_billState,p_billZip,p_billCountry
+j2ee,j2ee,Visa,999 9999 9999 9999,12/03,ABC,XYX,901 San Antonio Road,MS UCUP02-206,Palo Alto,CA,94303,USA
